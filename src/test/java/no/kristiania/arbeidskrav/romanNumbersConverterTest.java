@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-//AI: Oppretter testklasse
+//AI: Opprettet testklasse
 public class romanNumbersConverterTest {
 
     @Test

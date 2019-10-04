@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="romanNumbers-Arbeidskrav" />
-        <module name="romanNumbers--Arbeidskrav" />
+        <module name="Arbeidskrav_bruk_denne" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
